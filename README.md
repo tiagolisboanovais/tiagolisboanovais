@@ -16,8 +16,8 @@ Analista de sistemas com mais de 7 anos de experiência, com conhecimento em SQL
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/tiagolisboanovais/)
 
-[![Facebook](https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=0E76A8)](https://www.facebook.com/tiagolisboanovais/)
+[![Facebook](https://img.shields.io/badge/facebook-000?style=for-the-badge&logo=facebook&logoColor=0E76A8)](https://www.facebook.com/tiagolisboati/)
 
-[![Instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=0E76A8)](https://www.instagram.com/tiagolisboa.ti/)
+[![Instagram](https://img.shields.io/badge/instagram-000?style=for-the-badge&logo=instagram&logoColor=0E76A8)](https://www.instagram.com/tiagolisboati/)
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:tiagolisboanovais)
